@@ -9,7 +9,7 @@ export const ROADMAPS = {
     defaultTab: "fullstack",
     setup: {
       machine: {
-        title: "Computador (CPU/RAM)",
+        title: "Computador",
         min: "i3/Ryzen 3 + 8GB RAM.",
         rec: "i5/Ryzen 5 + 16GB RAM.",
         tip: "SSD é obrigatório para não sofrer com lentidão."

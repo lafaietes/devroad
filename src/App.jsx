@@ -110,7 +110,7 @@ export default function App() {
             <span className="text-slate-400 font-medium">DevRoad Project</span>
           </div>
           <p className="text-slate-600 text-sm text-center md:text-right">
-            Feito com React e Tailwind <br/>
+            Feito com React e Tailwind. Acesse <a href='https://github.com/lafaietes/devroad/' target='_blank'>aqui</a> o repo. <br/>
             Conteúdo 100% gratuito para a comunidade.
           </p>
         </div>
